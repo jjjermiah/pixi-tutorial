@@ -1,0 +1,18 @@
+# pixi environments
+.pixi
+*.egg-info
+
+build
+dist
+plots
+
+.yarn
+
+.DS_Store
+
+benchmarks/pixi
+benchmarks/micromamba
+benchmarks/conda
+benchmarks/.pixi
+benchmarks/results
+node_modules

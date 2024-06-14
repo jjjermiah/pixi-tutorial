@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@marp-team/marp-cli": "^3.4.0"
+  },
+  "scripts": {
+    "build-pdf": "marp --allow-local-files --pdf --output slides.pdf pixi-tutorial.md ",
+    "build-html": "marp --allow-local-files  --html --output slides.html  pixi-tutorial.md"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-mermaid": "^0.2.5"
+  }
+}

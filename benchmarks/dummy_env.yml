@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - scipy 
+  - polars
+  - ipywidgets ==7.8.0
+  - seaborn
+  - matplotlib
+  - plotly
+  - r-base
+  - r-essentials
+  - r-irkernel
+  - jupyterlab
+  - pip:
+    - pandoc

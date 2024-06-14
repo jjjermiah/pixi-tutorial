@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "/Users/bhklab/dev/pixi-tutorial/.pixi/envs/default/bin/python",
+  // Please put `.vscode/settings.json` on your workspace
+  "markdown.marp.themes": [
+    "./custom.css"
+  ]
+}
